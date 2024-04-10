@@ -15,7 +15,11 @@
 #
 
 FROM openjdk:17.0.2
-COPY . /usr/src/myapp
 WORKDIR /usr/src/myapp
+COPY .mvn/ .mvn/
+COPY pom.xml .
+RUN ./mvnw dependency:go-offline
+COPY . .
 RUN ./mvnw clean package
 CMD ./mvnw cargo:run -P tomcat90
+
