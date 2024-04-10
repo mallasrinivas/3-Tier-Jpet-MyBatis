@@ -60,3 +60,5 @@ Perform integration tests for screen transition.
 ```
 $ ./mvnw clean verify -P tomcat90
 ```
+
+Thanks to MyBatis for this project and Ajay Kumar Y
