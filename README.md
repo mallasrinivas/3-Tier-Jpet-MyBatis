@@ -61,4 +61,34 @@ Perform integration tests for screen transition.
 $ ./mvnw clean verify -P tomcat90
 ```
 
+Jenkis - CI pipeline
+
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/a9a59808-fbb7-4cc6-89e1-87c51ee0bb11)
+
+Jenkins-CD - Kubernets
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/3752532a-6ccb-4ea2-b046-9f8241c401a4)
+
+Sonarcube- Scanner
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/e4a1f6dc-0629-4660-b8b7-f1b56c1c2106)
+
+email notification 
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/7c004caa-deca-4ef3-bd5e-b2ce1af86ce8)
+
+Output
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/a1869cd6-b9a3-4a81-b796-e0649c30fe72)
+
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/2f3f3066-1bff-4710-8cc6-cd24c05273e5)
+
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/aded596d-63ee-4da9-b787-15fe7cef1212)
+
+![image](https://github.com/mallasrinivas/3-Tier-Jpet-MyBatis/assets/90713944/41839daf-0afd-4346-b2b5-28ff18297939)
+
+
+
+
+
+
+
+
+
 Thanks to MyBatis for this project and Ajay Kumar Y
