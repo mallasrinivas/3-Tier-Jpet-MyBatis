@@ -1,4 +1,4 @@
-# MyBatis JPetStore
+# MyBatis JPetStore SpringBoot app
 
 ![mybatis-jpetstore](https://mybatis.org/images/mybatis-logo.png)
 
